@@ -7,3 +7,7 @@ var myVar = "Hello, world!";
 - [ ] Turn on Github Pages
 - [ ] Outline my Portfolio
 - [X] INtroduce myself to the world
+
+| syntax  | description  | test text |
+| :-----  |  :--------:  | --------: |
+| Bla bla | bla bla      | more bla  |
