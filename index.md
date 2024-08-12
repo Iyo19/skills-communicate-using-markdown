@@ -4,3 +4,6 @@ I added a header! :D
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [X] INtroduce myself to the world
